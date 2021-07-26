@@ -16,7 +16,7 @@ public class HttpExample {
     private String name;
 
     public static void main(String[] args) throws Exception {
-        new HttpExample("JavaAgent").query("https://www.github.com");
+        new HttpExample("JavaAgent").query("https://www.baidu.com");
     }
 
     public HttpExample(String name){
